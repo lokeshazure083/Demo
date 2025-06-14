@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: : vstsagent.lokeshazure083.Default.HP-LAP
+  name: : HP-LAP
 
 variables:
   buildConfiguration: 'Release'
